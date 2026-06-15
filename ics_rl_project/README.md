@@ -75,7 +75,7 @@ CUDA 11.8 or later is recommended for GPU-accelerated training.
 
 ### 1. Prepare the Dataset
 
-Download BOSSBase 1.01 from [https://dde.binghamton.edu/download/](https://dde.binghamton.edu/download/) and extract to `data/bossbase/`.
+Download BOSSBase 1.01 from [http://dde.binghamton.edu/download/ImageDB/BOSSbase_1.01.zip](http://dde.binghamton.edu/download/ImageDB/BOSSbase_1.01.zip) (official DDE Lab, Binghamton University) and extract to `data/bossbase/`.
 
 ### 2. Train the SRNet Steganalyser
 
